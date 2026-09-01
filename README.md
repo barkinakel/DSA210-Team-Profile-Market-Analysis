@@ -1,6 +1,16 @@
 # Advanced Tactical Analysis & Betting Strategy
 ## DSA 210 Term Project - Fall 2025-2026
 
+> [!WARNING]
+> **Archived — results are not reliable.**
+>
+> This repository is the original Fall 2025–26 submission, kept for reference.
+> A later review of the pipeline identified methodological issues. The win rates, ROI and Safety Score figures reported below are in-sample
+> and should not be treated as validated performance or used for any decision.
+>
+> A rebuilt version with proper train/validation/test separation and out-of-sample
+> testing is in development. *(link to be added)*
+
 ### Motivation
 The primary motivation for this project is to test the **Efficient Market Hypothesis (EMH)** in the context of sports betting. EMH suggests that all publicly available information is already reflected in betting odds, making it impossible to systematically "beat" the market. 
 
