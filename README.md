@@ -2,12 +2,11 @@
 ## DSA 210 Term Project - Fall 2025-2026
 
 > [!WARNING]
-> **Archived — results are not reliable.**
+> **Archived**
 >
 > This repository is the original Fall 2025–26 submission, kept for reference.
-> A later review of the pipeline identified methodological issues. The win rates, ROI and Safety Score figures reported below are in-sample
-> and should not be treated as validated performance or used for any decision.
->
+> A later review of the pipeline identified methodological issues. The results reported below are in-sample
+> and are not reliable.
 > A rebuilt version with proper train/validation/test separation and out-of-sample
 > testing is in development. *(link to be added)*
 
